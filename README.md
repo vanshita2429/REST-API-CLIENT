@@ -27,3 +27,7 @@ This project taught me how to handle network connections in Java, work with APIs
 Such applications are useful in many industries. For example, a logistics company can use this kind of tool to monitor weather conditions in delivery areas. Similarly, travel companies can integrate this into their platforms to inform users about weather forecasts. Even simple desktop or mobile weather widgets use the same concept.
 
 Overall, this Java project gave me practical experience in connecting Java applications with online APIs. I also understood how to work with live data, handle external responses, and present the output in a readable way. The project used only basic tools—Notepad and the Java compiler—but still provided the feel of a real-world software module. It can be further improved by adding graphical interfaces or allowing more detailed input like country codes or date-based forecasts.#
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0e91b51c-faf7-4a7d-b589-70960db56f9d)
